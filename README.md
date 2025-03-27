@@ -1,2 +1,2 @@
 # MiniJava-Compiler
-A compiler for miniJava, a subset of the Java language, completed as coursework for COMP 520.
+a compiler for miniJava, a subset of the Java language, including simple inheritance
